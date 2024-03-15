@@ -9,9 +9,9 @@ This project focuses on performing sentiment analysis on product reviews obtaine
 Project Description
 Tools Used
 High-Level Steps
-Deliverables
+
 ## Project Description
-As an analyst, you will work with a dataset comprising text reviews and associated ratings from an e-commerce platform. The dataset includes various attributes such as customer ID, product ID, review headline, review body, star rating, and sentiment. The main tasks involved in this project include data preprocessing, exploratory data analysis (EDA), model building, evaluation, and developing a sentiment analysis dashboard.
+The dataset comprises of text reviews and associated ratings from an e-commerce platform. The dataset includes various attributes such as customer ID, product ID, review headline, review body, star rating, and sentiment. The main tasks involved in this project include data preprocessing, exploratory data analysis (EDA), model building, evaluation, and developing a sentiment analysis dashboard.
 
 ## Tools Used
 - Python libraries: Pandas, scikit-learn, spaCy
